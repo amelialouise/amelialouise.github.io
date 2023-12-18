@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/archive.html</loc>
+    <lastmod>2023-07-29T23:33:41.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/blog.html</loc>
+    <lastmod>2023-07-29T23:33:42.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/index.html</loc>
+    <lastmod>2023-08-29T21:31:48.321Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/posts/2023-07-15_exploring-quarto-features/index.html</loc>
+    <lastmod>2023-07-29T23:33:40.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/posts/2023-07-16_first-time-blogging/index.html</loc>
+    <lastmod>2023-07-17T20:57:37.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstat.dal.ca/~ameliay/posts/2023-07-22_tidymodeling-with-r/index.html</loc>
+    <lastmod>2023-07-17T20:57:38.765Z</lastmod>
+  </url>
+</urlset>

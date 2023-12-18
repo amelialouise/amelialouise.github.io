@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTidymodeling with Kuhn and Silge\n\n\n\n\n\n\n\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\nJul 16, 2023\n\n\n\n\n\n\n\n\nThis is a Quarto blog\n\n\n\n\n\n\n\n\n\nJul 15, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTidymodeling with Kuhn and Silge\n\n\n\n\n\n\n\ntidymodels\n\n\nrstats\n\n\n\n\nSome explorations while working thorough Tidy Modeling with R by Max Kuhn and Julia Silge\n\n\n\n\n\n\nJul 22, 2023\n\n\n1 min\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nblogging\n\n\n\n\n\n\n\n\n\n\n\nJul 16, 2023\n\n\n2 min\n\n\n\n\n\n\n\n\nThis is a Quarto blog\n\n\n\n\n\n\n\n123\n\n\n\n\nThis is a test post based on the Quarto blog writing guide by Albert Rapp.\n\n\n\n\n\n\nJul 15, 2023\n\n\n4 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amelia Vargas",
+    "section": "",
+    "text": "Hi! I’m Amelia, a data scientist based in the Pacific Northwest.\nI’m a Senior Research Analyst with the State of Oregon. I became the first R Admin for my agency, the Department of Consumer and Business Services, in 2022. Most of my work is related to creating new statistical analyses, building analytical tools for internal teams, and providing guidance on research and evaluation methods.\nI’m currently interested in predictive modeling and using deep learning (PyTorch) in insurance.\n\nEducation\nM.Sc. in Mathematics from Dalhousie University, Canada\nM.Sc. thesis: A Geometric Study of Superintegrable Systems [arXiv]\nB.Sc. in Physics and B.A. in Mathematics from California State University, Fullerton, USA\n\n\nStudies\n2022 Oregon Workers’ Compensation Premium Rate Ranking Study\nD. Gallogly, A. Vargas\nPDF\nStatistical analysis of reporting of student genders in Oregon’s public schools\nA. Vargas, A. Vargas\n2018 Oregon Statewide Annual Report Card.\nODE\nNewspaper Archives + Text Mining = Rich Sources of Historical Geospatial Data: A Flood Database Case Study\nA. Yzaguirre, R. Warren, M. Smit\nIOP Conference Series: Earth and Environmental Science, Volume 34, conference 1 (2016).\nIOP Science\nDetecting environmental disasters in digital news archives\nA. Yzaguirre, R. Warren, M. Smit\n2015 IEEE International Conference on Big Data (Big Data), pp. 2027-2035 (2015).\nIEEE Xplore Digital Library\nInfrared Spectral Energy Distributions of Seyfert Galaxies: Spitzer Space Telescope Observations of the 12 micron Sample of Active Galaxies\nJ. F. Gallimore, A. L. Yzaguirre, J. Jakoboski, M. J. Stevenosky, D. J. Axon, S. A. Baum, C. L. Buchanan, M. Elitzur, M. Elvis, C. P. O’Dea, A. Robinson\nThe Astrophysical Journal Supplement Series, Volume 187, Issue 1, pp. 172-211 (2010).\narXiv\nCosmic topology: Studying the shape and size of our universe\nA. Yzaguirre, A. Hajian\nBulletin of the American Astronomical Society, vol. 42, p. 549 (2010).\nSAO/NASA ADS Astronomy Abstract Service\n\n\nRecommendations\n\nHow to Solve It by George Pólya.\nStatistical Rethinking by Richard McElreath.\n{tidymodels} and Tidy Modeling with R by Max Kuhn & Julia Silge\nApplied Predictive Modeling by Kuhn & Johnson\nCoffee"
+  },
+  {
+    "objectID": "index.html#work",
+    "href": "index.html#work",
+    "title": "Amelia Vargas",
+    "section": "",
+    "text": "I’m . This is my personal website, which I started to share my projects, learnings, code (mostly R and Python), and thoughts on various topics in data science.\nI work at Yelp as a Data Science Analyst where, among other things, I design and analyze online experiments. Before that, I worked for Ardea Outcomes, a contract research organization supporting pharmaceutical companies in clinical trials. My background is in Physics. I earned my MSc from Dalhousie University, and my BSc from the University of Prince Edward Island.\nI’m currently a Senior Research Analyst with the State of Oregon. I’m research and data teams in a variety of sectors including public education, I’m passionate about coding, statistical modeling, and analytics ."
+  },
+  {
+    "objectID": "index.html#places",
+    "href": "index.html#places",
+    "title": "Amelia Vargas",
+    "section": "Places",
+    "text": "Places\nCalifornia ✈️ Ontario ✈️ Nova Scotia ✈️ Belgium 🛬 Oregon\nOriginally from Redlands, California. Currently based in the PNW on the lands of the Kalapuya."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Amelia Vargas",
+    "section": "Education",
+    "text": "Education\nM.Sc. in Mathematics from Dalhousie University, Canada\nMSc thesis A Geometric Study of Superintegrable Systems Supervised by Roman G. Smirnov [arXiv]\nB.Sc. in Physics and BA in Mathematics from California State University, Fullerton, USA"
+  },
+  {
+    "objectID": "index.html#journal-publications",
+    "href": "index.html#journal-publications",
+    "title": "Amelia Vargas",
+    "section": "Journal Publications",
+    "text": "Journal Publications\nInfrared Spectral Energy Distributions of Seyfert Galaxies: Spitzer Space Telescope Observations of the 12 micron Sample of Active Galaxies J. F. Gallimore, A. L. Yzaguirre, J. Jakoboski, M. J. Stevenosky, D. J. Axon, S. A. Baum, C. L. Buchanan, M. Elitzur, M. Elvis, C. P. O’Dea, A. Robinson The Astrophysical Journal Supplement Series, Volume 187, Issue 1, pp. 172-211 (2010).\n[arXiv]\nConference Publications Newspaper Archives + Text Mining = Rich Sources of Historical Geospatial Data: A Flood Database Case Study A. Yzaguirre, R. Warren, and M. Smit IOP Conference Series: Earth and Environmental Science, Volume 34, conference 1 (2016).\n[IOP SCIENCE]\nDetecting environmental disasters in digital news archives A. Yzaguirre, R. Warren, and M. Smit Proceedings of the 2015 IEEE International Conference on Big Data (Big Data), pp. 2027-2035 (2015).\n[IEEE Xplore Digital Library]\nCosmic topology: Studying the shape and size of our universe A. Yzaguirre and A. Hajian Bulletin of the American Astronomical Society, vol. 42, p. 549, 2010.\n[SAO/NASA ADS Astronomy Abstract Service]\nMSc thesis A Geometric Study of Superintegrable Systems Supervised by Roman G. Smirnov [arXiv]"
+  },
+  {
+    "objectID": "index.html#recommendations",
+    "href": "index.html#recommendations",
+    "title": "Amelia Vargas",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nHow to Solve It by George Pólya.\nStatistical Rethinking by Richard McElreath.\n{tidymodels} and Applied Predictive Modeling by Kuhn & Johnson\nCoffee"
+  },
+  {
+    "objectID": "posts/2023-07-15_exploring-quarto-features/index.html",
+    "href": "posts/2023-07-15_exploring-quarto-features/index.html",
+    "title": "This is a Quarto blog",
+    "section": "",
+    "text": "This post is to show some of Quarto’s blog features. I might revisit and edit this post from time to time to experiment with the layout and appearance of my blog. When I first created my blog I used this post to figure out the light and dark toggle options.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nThis is inline code plus a small code chunk.\n\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(scales)\n\n# inspired by tmwr.org\ndata(ames, package = \"modeldata\")\n\nggplot(ames, aes(x = Sale_Price)) + \n  geom_histogram(bins = 50, col= \"white\") + \n  scale_x_log10(labels = label_dollar(scale_cut = cut_long_scale())) +\n  theme(\n    axis.text.x  = element_text(size = 10),\n    plot.margin = margin(0, 1, 0, 0, \"cm\")\n  )\n\n\n\n\n\n\n\n\nTransforming OLS estimatesMaximizing likelihood\n\n\n\n\nCode\npreds_lm %&gt;% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  theme_minimal(base_size = 12) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\nCode\nglm.mod &lt;- glm(sex ~ body_mass_g + bill_length_mm + species, family = binomial, data = dat)\n\npreds &lt;- dat %&gt;% \n  mutate(\n    prob.fit = glm.mod$fitted.values,\n    prediction = if_else(prob.fit &gt; 0.5, 'male', 'female'),\n    correct = if_else(sex == prediction, 'correct', 'incorrect')\n  )\n\n\npreds %&gt;% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  theme_minimal(base_size = 10) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\n\n\\[\n\\int_0^1 f(x) \\ dx\n\\]\n\n\n\n\n\n\n\n\ngeom_density(\n  mapping = NULL,\n  data = NULL,\n  stat = \"density\",\n  position = \"identity\",\n  ...,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE,\n  outline.type = \"upper\"\n)\n\n\nstat_density(\n  mapping = NULL,\n  data = NULL,\n  geom = \"area\",\n  position = \"stack\",\n  ...,\n  bw = \"nrd0\",\n  adjust = 1,\n  kernel = \"gaussian\",\n  n = 512,\n  trim = FALSE,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE\n)\n\n\n\n\n\n\n\nggplot(data = gapminder::gapminder, mapping = aes(x = lifeExp, fill = continent)) +\n  stat_density(position = \"identity\", alpha = 0.5)\n\n\n\n\nBla bla bla. This is a caption in the margin. Super cool isn’t it?"
+  },
+  {
+    "objectID": "posts/2023-07-15_exploring-quarto-features/index.html#section-with-subsections",
+    "href": "posts/2023-07-15_exploring-quarto-features/index.html#section-with-subsections",
+    "title": "This is a Quarto blog",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nThis is inline code plus a small code chunk.\n\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(scales)\n\n# inspired by tmwr.org\ndata(ames, package = \"modeldata\")\n\nggplot(ames, aes(x = Sale_Price)) + \n  geom_histogram(bins = 50, col= \"white\") + \n  scale_x_log10(labels = label_dollar(scale_cut = cut_long_scale())) +\n  theme(\n    axis.text.x  = element_text(size = 10),\n    plot.margin = margin(0, 1, 0, 0, \"cm\")\n  )\n\n\n\n\n\n\n\n\nTransforming OLS estimatesMaximizing likelihood\n\n\n\n\nCode\npreds_lm %&gt;% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  theme_minimal(base_size = 12) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\nCode\nglm.mod &lt;- glm(sex ~ body_mass_g + bill_length_mm + species, family = binomial, data = dat)\n\npreds &lt;- dat %&gt;% \n  mutate(\n    prob.fit = glm.mod$fitted.values,\n    prediction = if_else(prob.fit &gt; 0.5, 'male', 'female'),\n    correct = if_else(sex == prediction, 'correct', 'incorrect')\n  )\n\n\npreds %&gt;% \n  ggplot(aes(body_mass_g, bill_length_mm, col = correct)) +\n  geom_jitter(size = 4, alpha = 0.6) +\n  facet_wrap(vars(species)) +\n  scale_x_continuous(breaks = seq(3000, 6000, 1000)) +\n  scale_color_manual(values = c('grey60', thematic::okabe_ito(3)[3])) +\n  theme_minimal(base_size = 10) +\n  theme(\n    legend.position = 'top', \n    panel.background = element_rect(color = 'black'),\n    panel.grid.minor = element_blank()\n  ) +\n  labs(\n    x = 'Body mass (in g)',\n    y = 'Bill length (in mm)'\n  )\n\n\n\n\n\n\n\n\n\n\n\\[\n\\int_0^1 f(x) \\ dx\n\\]"
+  },
+  {
+    "objectID": "posts/2023-07-15_exploring-quarto-features/index.html#weve-got-columns",
+    "href": "posts/2023-07-15_exploring-quarto-features/index.html#weve-got-columns",
+    "title": "This is a Quarto blog",
+    "section": "",
+    "text": "geom_density(\n  mapping = NULL,\n  data = NULL,\n  stat = \"density\",\n  position = \"identity\",\n  ...,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE,\n  outline.type = \"upper\"\n)\n\n\nstat_density(\n  mapping = NULL,\n  data = NULL,\n  geom = \"area\",\n  position = \"stack\",\n  ...,\n  bw = \"nrd0\",\n  adjust = 1,\n  kernel = \"gaussian\",\n  n = 512,\n  trim = FALSE,\n  na.rm = FALSE,\n  orientation = NA,\n  show.legend = NA,\n  inherit.aes = TRUE\n)"
+  },
+  {
+    "objectID": "posts/2023-07-15_exploring-quarto-features/index.html#we-can-even-do-captions",
+    "href": "posts/2023-07-15_exploring-quarto-features/index.html#we-can-even-do-captions",
+    "title": "This is a Quarto blog",
+    "section": "",
+    "text": "ggplot(data = gapminder::gapminder, mapping = aes(x = lifeExp, fill = continent)) +\n  stat_density(position = \"identity\", alpha = 0.5)\n\n\n\n\nBla bla bla. This is a caption in the margin. Super cool isn’t it?"
+  },
+  {
+    "objectID": "posts/2023-07-16_first-time-blogging/index.html",
+    "href": "posts/2023-07-16_first-time-blogging/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "I’m using Quarto to begin my blog journey.\n\nWhat kinds of posts might you find here?\nCurrently, I’m working through the Tidy Modeling with R book by Max Kuhn and Julia Silge. So I might have some posts related to that. Who knows what other types of posts I’ll be writing here. I shall make no promises nor predictions.\n\n\nDark theme blog\nI love reading in dark mode. There are a handful of available dark themes that come pre-installed with Quarto:\n\nCyborg\n\nDarkly\n\nSlate\n\nSuperhero\n\n…and maybe Solar and Vapor?\nI was a fan of Slate until I realized I didn’t like the vertical lines it has in places like the navigation bar.\n\nI was also very tempted by how cool Vapor looks. I still am. But in the end, I wanted simplicity in my theme and decided not to use any of these. I was following along with Albert Rapp’s ultimate guide to starting a Quarto blog and decided to build on his theme.scss example to customize my blog’s settings. This made it easy to figure out a minimum set of variables to configure to get the dark theme setup. Here are the variables to modify if you’re interested in setting up a simple dark theme:\n\n\nsnippet of my theme-dark.scss\n\n$body-bg: $black !default; \n$body-color: $white !default;\n$code-color: #bb8acf !default;\n$code-block-bg: #212529 !default;\n$code-block-border-left: #bb8acf !default;\n\n\n\nWhat’s next?\nI might add a list of bloggers and articles that have helped or inspired me along the way. But otherwise, that’s all for this post for now.\nHappy blogging! ⌨️✨"
+  },
+  {
+    "objectID": "posts/2023-07-22_tidymodeling-with-r/index.html",
+    "href": "posts/2023-07-22_tidymodeling-with-r/index.html",
+    "title": "Tidymodeling with Kuhn and Silge",
+    "section": "",
+    "text": "Setup"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Amelia Vargas",
+    "section": "Publications",
+    "text": "Publications\nInfrared Spectral Energy Distributions of Seyfert Galaxies: Spitzer Space Telescope Observations of the 12 micron Sample of Active Galaxies J. F. Gallimore, A. L. Yzaguirre, J. Jakoboski, M. J. Stevenosky, D. J. Axon, S. A. Baum, C. L. Buchanan, M. Elitzur, M. Elvis, C. P. O’Dea, A. Robinson The Astrophysical Journal Supplement Series, Volume 187, Issue 1, pp. 172-211 (2010).\n[arXiv]\nConference Publications Newspaper Archives + Text Mining = Rich Sources of Historical Geospatial Data: A Flood Database Case Study A. Yzaguirre, R. Warren, and M. Smit IOP Conference Series: Earth and Environmental Science, Volume 34, conference 1 (2016).\n[IOP SCIENCE]\nDetecting environmental disasters in digital news archives A. Yzaguirre, R. Warren, and M. Smit Proceedings of the 2015 IEEE International Conference on Big Data (Big Data), pp. 2027-2035 (2015).\n[IEEE Xplore Digital Library]\nCosmic topology: Studying the shape and size of our universe A. Yzaguirre and A. Hajian Bulletin of the American Astronomical Society, vol. 42, p. 549, 2010.\n[SAO/NASA ADS Astronomy Abstract Service]"
+  }
+]
